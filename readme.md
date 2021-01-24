@@ -4,8 +4,6 @@ My name is rapstninja (more commonly known as rappingninjaYT). I code stuff and 
 
 ## Socials
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 Youtube: rapstninja
 Discord: 256486105451462657 & 395991937578172417

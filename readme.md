@@ -1,19 +1,16 @@
 # About me
 
-My name is rapstninja (more commonly known as rappingninjaYT). I code stuff and watch youtube most of the time
+My name is rps (more commonly known as rappingninjaYT or rapstninja). I code stuff and watch youtube most of the time
 
 ## Socials
 
 ```bash
-Youtube: rapstninja
 Discord: 256486105451462657 & 395991937578172417
-Github: this  /rappingninjaYT
+Steam: https://steamcommunity.com/id/rapstninja/
 ```
 
 ## Projects
-New Oxygen
-NN SS
-and some other stuff that i shall keep a secret
+None ATM.
 
 ## Help
-Much help and teaching me is appreciated :)
+Teaching me is appreciated :)

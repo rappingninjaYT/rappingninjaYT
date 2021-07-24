@@ -2,15 +2,9 @@
 
 My name is rps (more commonly known as rappingninjaYT or rapstninja). I code stuff and watch youtube most of the time
 
-## Socials
 
-```bash
-Discord: 256486105451462657 & 395991937578172417
-Steam: https://steamcommunity.com/id/rapstninja/
-```
+## Languages
 
-## Projects
-None ATM.
-
-## Help
-Teaching me is appreciated :)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rappingninjaYT&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rappingninjaYT"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rappingninjaYT" />

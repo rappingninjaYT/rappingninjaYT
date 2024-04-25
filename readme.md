@@ -1,9 +1,18 @@
 # About me
 
-My name is rps (more commonly known as rappingninjaYT or rapstninja). I code stuff and watch youtube most of the time
+Hello! I'm enginelibrary but commonly go by x37u, I mostly work on private projects and Kairi (discord bot). If you want to contact me, you can email me at info@weapons.lol
 
 
-## Languages
+## Skills
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rappingninjaYT&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=radical"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rappingninjaYT&theme=radical"/>
+* Python
+* HTML, CSS & Little bit of Javascript
+## Projects
+
+* Kairi
+* weapons.lol
+## To-do
+
+* Learn Rust
+* Learn C#
+

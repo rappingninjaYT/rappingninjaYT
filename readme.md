@@ -10,7 +10,7 @@ Hello! I'm enginelibrary but commonly go by x37u, I mostly work on private proje
 ## Projects
 
 * Kairi
-* weapons.lol
+* f3mboy.us
 ## To-do
 
 * Learn Rust

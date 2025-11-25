@@ -1,16 +1,17 @@
 # About me
 
-Hello! I'm enginelibrary but commonly go by x37u, I mostly work on private projects and Kairi (discord bot). If you want to contact me, you can email me at info@weapons.lol
-
+Hello! I'm x37u, I mostly work on private projects. If you want to contact me, you can email me at admin@f3mboy.us
 
 ## Skills
 
 * Python
-* HTML, CSS & Little bit of Javascript
+* HTML, CSS & Javascript
+
 ## Projects
 
-* Kairi
+* nexywexy.top
 * f3mboy.us
+
 ## To-do
 
 * Learn Rust
